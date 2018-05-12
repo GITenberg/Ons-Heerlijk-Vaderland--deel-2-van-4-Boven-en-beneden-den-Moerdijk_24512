@@ -1,0 +1,29 @@
+_repo: Ons-Heerlijk-Vaderland--deel-2-van-4-Boven-en-beneden-den-Moerdijk_24512
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blink, Hendrik
+    alias: Blink, Dr. H.
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '26545'
+    url: http://www.gutenberg.org/2009/agents/26545
+description: ''
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24512'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- Description and travel'
+title: 'Ons Heerlijk Vaderland (deel 2 van 4)
+
+  Boven en beneden den Moerdijk'
+url: http://www.gutenberg.org/ebooks/24512
