@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26545'
     url: http://www.gutenberg.org/2009/agents/26545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24512#Ons-Heerlijk-Vaderland--deel-2-van-4-Boven-en-beneden-den-Moerdijk
 gutenberg_issued: '2008-02-04'
 gutenberg_type: Text
 identifiers:
